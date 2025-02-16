@@ -1,4 +1,6 @@
-### Hi! 👋 I'm daonan233
+### Hi! 👋 I'm DaoNan.
+A student of Beijing University of Posts and Telecommunications, majored in Software Engineering.
+A front - end development intern at [![China Telecom](https://img.shields.io/badge/China%20Telecom-%23083A90?style=for-the-badge&logo=&logoColor=white)](http://www.chinatelecom.com.cn)
 
 💬 Something about my projects...<br>
 ### 🛠️ Tech Stack
