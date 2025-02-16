@@ -8,6 +8,7 @@
 ### 💻 Passion Projects
 
 [![Web Development](https://img.shields.io/badge/Web_Development-FF4088?logo=html5&logoColor=white)](https://github.com)
+[![uni-app](https://img.shields.io/badge/Uni--App-Framework-6831B6?logo=vuedotjs&logoColor=white)](https://www.dcloud.io/)
 [![Mirai](https://img.shields.io/badge/QQ_Bot-Mirai_Console-0088CC?logo=tencentqq&logoColor=white)](https://mirai.mamoe.net)
 [![Python](https://img.shields.io/badge/Machine_Learning-Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 
